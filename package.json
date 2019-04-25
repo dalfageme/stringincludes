@@ -1,0 +1,25 @@
+{
+  "name": "stringicludes",
+  "version": "1.0.0",
+  "description": "Finds out if string contains any or all of given strings",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/dalfageme/stringincludes.git"
+  },
+  "keywords": [
+		"string",
+		"includes",
+		"es6",
+		"ecmascript",
+    "includesall",
+    "includesany",
+    "includeany",
+    "includeall"
+	],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Alfageme",
+  "license": "ISC"
+}
