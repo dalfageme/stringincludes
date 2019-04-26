@@ -1,5 +1,5 @@
 {
-  "name": "stringicludes",
+  "name": "includes-any",
   "version": "1.0.0",
   "description": "Finds out if string contains any or all of given strings",
   "repository": {
